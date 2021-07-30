@@ -1,2 +1,2 @@
-# qiankun template
+# qiankun template for vue
 
