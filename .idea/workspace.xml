@@ -5,19 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9ecc1f0-f760-4672-a2d7-356706de2eeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/base-vue/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base-vue/prettier.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base-vue/src/modules/apps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base-vue/src/modules/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub-vue/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub-vue/prettier.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub-vue/src/public-path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub-vue/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base-vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/base-vue/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base-vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/base-vue/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base-vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/base-vue/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base-vue/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/base-vue/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base-vue/prettier.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/base-vue/prettier.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base-vue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/base-vue/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base-vue/src/modules/apps.js" beforeDir="false" afterPath="$PROJECT_DIR$/base-vue/src/modules/apps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base-vue/src/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/base-vue/src/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base-vue/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/base-vue/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub-vue/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/sub-vue/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub-vue/prettier.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/sub-vue/prettier.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub-vue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/sub-vue/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub-vue/src/public-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/sub-vue/src/public-path.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub-vue/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sub-vue/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub-vue/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sub-vue/src/store/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +38,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/base-vue" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\qiankun\sub-vue\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -57,11 +65,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627562870464</updated>
-      <workItem from="1627562871890" duration="7621000" />
+      <workItem from="1627562871890" duration="10805000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1627617614999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627617615000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
